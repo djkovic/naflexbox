@@ -1,0 +1,29 @@
+.container{
+  display: flex ;
+  border: 10px solid blanchedalmond;
+  height: 90vh;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  column-gap: 1em;
+  row-gap: 1em;
+}
+.box{
+  width: 150px;
+  height: 150px;
+  font-size: 8em;
+  text-align: center;
+  border-radius: 50px;
+}
+#box1{
+  background-color: rgb(255, 0, 0);
+ 
+}
+#box2{
+  background-color: #d8d82b;
+}
+#box3{
+  background-color: #2208e9fb;
+}
+#box4{
+  background-color: rgb(6, 227, 62);
+}
